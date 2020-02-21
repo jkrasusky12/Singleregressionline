@@ -43,8 +43,8 @@ def plot_regression_line(x, y, b):
 
 def main():
     #observations
-    x = np.array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
-    y = np.array([1, 3, 2, 5, 7, 8, 8, 9, 10, 12])
+    x = np.array([21, 22, 23, 24, 25, 26, 27, 28, 29, 1])
+    y = np.array([35, 46, 51, 56, 52, 45, 45, 34, 33, 38])
 
     # estimated coefficients
     b = estimate_coef(x, y)
