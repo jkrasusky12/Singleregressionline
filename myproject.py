@@ -1,4 +1,7 @@
 '''
+Name: Jillian Krasusky
+Date: February 21
+Description: The x values are from February 21 to March 1. The y values are the estimated temperature highs for each of the x values.
 Source: https://weather.com/weather/tenday/l/Farmington+CT?canonicalCityId=df0fc242c43907ad60c262ce03cda9706785774c55566585cf38ba660f3133b6
 '''
 
