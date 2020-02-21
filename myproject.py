@@ -1,6 +1,5 @@
 '''
-This is an extremely messy collaborative document for the AI & ML course at MPS
-2-19-20
+Source: https://weather.com/weather/tenday/l/Farmington+CT?canonicalCityId=df0fc242c43907ad60c262ce03cda9706785774c55566585cf38ba660f3133b6
 '''
 
 import numpy as np
